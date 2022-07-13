@@ -1,9 +1,8 @@
 import 'dart:async';
 
+import 'package:art_crimes/models/art.dart';
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
-
-import '../../models/art.dart';
 
 part 'favourite_event.dart';
 
